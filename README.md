@@ -35,6 +35,13 @@ Unlike generic audio visualisers that respond to raw frequency energy, Lofi Room
 - **Node Editor** - Node Editor where users can link stems to objects in the scene
 - **Custom Scene** - Users can dynamically link objects in their custom scene
 
+### Related Plugins and Literature
+
+- Défossez, A., Usunier, N., Bottou, L., & Bach, F. (2019). *Music source separation in the waveform domain.* arXiv:1911.13254 — the original Demucs architecture
+- Rouard, S., Massa, F., & Défossez, A. (2023). *Hybrid transformers for music source separation.* ICASSP 2023 — the `htdemucs` model used in this plugin
+
+- [Sound React](https://blender-addons.org/sound-react-addon/) | This animates any animatable Blender property from frequency presets but not the stems
+- [Sound Nodes](https://blender-addons.org/sound-nodes/)| Geometry Nodes integration — Sound Info, Spectrogram, and Chromagram nodes
 
 ### References
  [Demucs (Meta / Facebook Research)](https://github.com/facebookresearch/demucs) | State of the art music source separation; `htdemucs` model separates into drums, bass, guitar, piano, vocals and other
