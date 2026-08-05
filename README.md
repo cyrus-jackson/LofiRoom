@@ -24,16 +24,14 @@ Unlike generic audio visualisers that respond to raw frequency energy, Lofi Room
 
 - **Bass room ambience** — subtle camera shake or object vibration follows bass amplitude
 - **Day / Night toggle** — switches HDRI, sun lamp colour/intensity, and curtain wind weight
-- **Fireworks particle system** — triggered in night mode on drum hits, visible through the bedroom window
-
-### Stretch Goals
 - **Curtain flutter on melody** — shape key blending driven by the "Other" stem (pads, keys)
-- **Vocal-driven colour temperature** — shift the scene's warm/cool balance with vocal energy
-- **Live microphone / stream input** — react to real-time audio (replaces Demucs with frequency-band fallback for live mode)
+
 
 ### Future Work
+- **Fireworks particle system** — triggered in night mode on drum hits, visible through the bedroom window
+- **Live microphone / stream input** — react to real-time audio (replaces Demucs with frequency-band fallback for live mode)
 - **Node Editor** - Node Editor where users can link stems to objects in the scene
-- **Custom Scene** - Users can dynamically link objects in their custom scene
+- **Live Music Stream (Radio)**: react to real time audio from a radio station
 
 ### Related Plugins and Literature
 
