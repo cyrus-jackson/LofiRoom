@@ -26,6 +26,8 @@ Unlike generic audio visualisers that respond to raw frequency energy, Lofi Room
 - **Day / Night toggle** — switches HDRI, sun lamp colour/intensity, and curtain wind weight
 - **Curtain flutter on melody** — shape key blending driven by the "Other" stem (pads, keys)
 
+## Demo Animation
+[Watch the demo](RenderedAnimation.mp4)
 
 ### Future Work
 - **Fireworks particle system** — triggered in night mode on drum hits, visible through the bedroom window
